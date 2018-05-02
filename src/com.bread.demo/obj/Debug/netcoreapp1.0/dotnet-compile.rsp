@@ -1,5 +1,5 @@
---temp-output:c:\users\para\documents\visual studio 2015\Projects\com.bread.demo\src\com.bread.demo\obj\Debug\netcoreapp1.0\
---out:c:\users\para\documents\visual studio 2015\Projects\com.bread.demo\src\com.bread.demo\bin\Debug\netcoreapp1.0\com.bread.demo.dll
+--temp-output:C:\Users\para\Documents\Projects\com.bread.demo\src\com.bread.demo\obj\Debug\netcoreapp1.0\
+--out:C:\Users\para\Documents\Projects\com.bread.demo\src\com.bread.demo\bin\Debug\netcoreapp1.0\com.bread.demo.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -121,6 +121,6 @@
 --reference:C:\Users\para\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\para\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\para\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"c:\users\para\documents\visual studio 2015\Projects\com.bread.demo\src\com.bread.demo\obj\Debug\netcoreapp1.0\com.bread.demodotnet-compile.deps.json",com.bread.demo.deps.json
-c:\users\para\documents\visual studio 2015\Projects\com.bread.demo\src\com.bread.demo\Program.cs
-c:\users\para\documents\visual studio 2015\Projects\com.bread.demo\src\com.bread.demo\Startup.cs
+--resource:"C:\Users\para\Documents\Projects\com.bread.demo\src\com.bread.demo\obj\Debug\netcoreapp1.0\com.bread.demodotnet-compile.deps.json",com.bread.demo.deps.json
+C:\Users\para\Documents\Projects\com.bread.demo\src\com.bread.demo\Program.cs
+C:\Users\para\Documents\Projects\com.bread.demo\src\com.bread.demo\Startup.cs
